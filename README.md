@@ -2,6 +2,7 @@
 This repository provides a demo for the multi-omics integration model SASCCA.
 
 ![workfolw](https://github.com/zpliulab/NAE/blob/master/workflow.jpg)
+![framework](https://github.com/zpliulab/sasCCA/framework.jpg)
 
 Computer Environment [![MATLAB](https://img.shields.io/badge/MATLAB-R2022a-green.svg "MATLAB")](https://ww2.mathworks.cn/products/matlab.html "MATLAB"):
 -
