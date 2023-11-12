@@ -15,6 +15,7 @@ Computer Environment [![MATLAB](https://img.shields.io/badge/MATLAB-R2023a-green
 File:
 -
 - UCEC, STAD, and LGG: three publicly available cancer datasets.
+- Appendix: Attachment to a paper.
 - demo.m: run the example.
 - measure.m: A function used to measure classification performance.
 - rand_idx.mat: A customizable matrix that can be used to divide testing and training.
